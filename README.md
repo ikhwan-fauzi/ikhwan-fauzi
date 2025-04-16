@@ -4,8 +4,6 @@
   </a>
 </p>
 
-![Toji Fushiguro GIF](https://media.tenor.com/images/14425395207236161194/tenor.gif)
-
 <h1 align="center">Hi 👋, I'm Ikhwan Fauzi</h1>
 <h3 align="center">💻 IT Student | Laravel & Flutter Developer | Open Source Enthusiast</h3>
 
@@ -25,6 +23,7 @@
 - 🎯 My goal: Become a solid Full Stack Developer with Laravel & Flutter as my core stacks
 
 ---
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 ## 🤝 Let’s Collaborate!
 
