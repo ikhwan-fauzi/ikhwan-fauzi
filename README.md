@@ -23,7 +23,6 @@
 - 🎯 My goal: Become a solid Full Stack Developer with Laravel & Flutter as my core stacks
 
 ---
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 ## 🤝 Let’s Collaborate!
 
