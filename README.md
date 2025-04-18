@@ -5,22 +5,13 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ikhwan Fauzi</h1>
-<h3 align="center">💻 IT Student | Laravel & Flutter Developer | Open Source Enthusiast</h3>
+<h3 align="center">  💻<strong>Junior Developer</strong> | Laravel & Flutter Enthusiast | Open Source Supporter</h3>
 
 <p align="center">
-📱 Currently learning mobile app development with <strong>Flutter + Firebase</strong><br>
-  📚 Passionate about full-stack development & backend optimization<br>
-  🌱 A persistent learner who always strives to grow and improve every single day
+  📱 Currently learning mobile app development using <strong>Flutter + Firebase</strong> <br>
+  📚 Interested in full-stack development & backend optimization <br>
+  🌱 A dedicated learner who’s always growing and improving
 </p>
-
----
-
-## 🧠 About Me
-
-- 👨‍🎓 Informatics Engineering Student 
-- 🛠️ Currently building a thesis-based web platform with Laravel
-- 📱 Currently exploring cross-platform development using Flutter & Firebase/Firestore
-- 🎯 My goal: Become a solid Full Stack Developer with Laravel & Flutter as my core stacks
 
 ---
 
