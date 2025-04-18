@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://yuna0x0.com">
-    <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" alt="Banner" width="50%">
+    <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" alt="Banner" width="25%">
   </a>
 </p>
 
@@ -31,6 +31,7 @@ I’m always open to contributing to open-source projects, collaborating with ot
 - 📝 I’m available for **collaborations** on open-source projects.
 - 💬 You can **ask me anything** related to web and mobile app development.
 - 🌱 I’m looking to learn more about **backend optimization** and **mobile app architecture**.
+- 📬 Let’s connect: **muhammadikhwanfauzi02@gmail.com**
 
 Let’s build something amazing together! 🚀
 
@@ -76,12 +77,6 @@ Let’s build something amazing together! 🚀
 
 ---
 
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -110,10 +105,12 @@ Let’s build something amazing together! 🚀
 
 ---
 
-## ✍️ Dev Quote
+## 🎧 My Favorite Song
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />
+  <a href="https://youtu.be/LHCob76kigA?si=F0NycSsFpY5ShG7A">
+    <img src="https://img.youtube.com/vi/LHCob76kigA/0.jpg" alt="7 Years - Lukas Graham" width="300">
+  </a>
 </p>
 
 ---
