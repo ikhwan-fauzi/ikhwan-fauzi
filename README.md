@@ -1,7 +1,5 @@
-<p align="center">
-  <a href="https://yuna0x0.com">
-    <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" alt="Banner" width="25%">
-  </a>
+ <p align="center">
+  <img src="https://i.pinimg.com/originals/26/67/e0/2667e0f188eafba8fc3a082d52137607.gif" width="40%" alt="welcome banner" style="border-radius: 15px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ikhwan Fauzi</h1>
@@ -14,17 +12,6 @@
 </p>
 
 ---
-
-## 🤝 Let’s Collaborate!
-
-I’m always open to contributing to open-source projects, collaborating with other developers, and learning from the community. If you’re working on an exciting project, or if you need help with a web or mobile development challenge, feel free to reach out. 
-
-- 📝 I’m available for **collaborations** on open-source projects.
-- 💬 You can **ask me anything** related to web and mobile app development.
-- 🌱 I’m looking to learn more about **backend optimization** and **mobile app architecture**.
-- 📬 Let’s connect: **muhammadikhwanfauzi02@gmail.com**
-
-Let’s build something amazing together! 🚀
 
 ## 💻 Tech Stack
 
