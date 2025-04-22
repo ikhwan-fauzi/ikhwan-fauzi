@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ikhwan Fauzi</h1>
-<h3 align="center">  💻<strong>Junior Developer</strong> | Laravel & Flutter Enthusiast | Open Source Supporter</h3>
 
 <p align="center">
   📱 Currently learning mobile app development using <strong>Flutter + Firebase</strong> <br>
