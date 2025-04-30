@@ -59,8 +59,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ikhwan-fauzi&theme=gotham&show_icons=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikhwan-fauzi&theme=gotham" alt="GitHub Streak" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhwan-fauzi&layout=compact&theme=gotham" />
 </p>
 
@@ -78,16 +76,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikhwan-fauzi&bg_color=121212&color=fafafa&line=55872c&point=004299&area=true&hide_border=true" />
-</p>
-
----
-
-## 🎧 My Favorite Song
-
-<p align="center">
-  <a href="https://youtu.be/LHCob76kigA?si=F0NycSsFpY5ShG7A">
-    <img src="https://img.youtube.com/vi/LHCob76kigA/0.jpg" alt="7 Years - Lukas Graham" width="300">
-  </a>
 </p>
 
 ---
