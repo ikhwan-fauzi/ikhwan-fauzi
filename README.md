@@ -5,9 +5,11 @@
 <h1 align="center">Hi 👋, I'm Ikhwan Fauzi</h1>
 
 <p align="center">
-  📱 Currently learning mobile app development using <strong>Flutter + Firebase</strong> <br>
-  📚 Interested in full-stack development & backend optimization <br>
-  🌱 A dedicated learner who’s always growing and improving
+  🧠 AI-powered applications & automation
+  ☁️ SaaS products & developer tools
+  📊 Data-driven systems & infrastructure
+  🌐 Modern full-stack web applications
+  🔓 Open-source projects & developer utilities
 </p>
 
 ---
