@@ -20,42 +20,6 @@ Building modern web applications, exploring AI, and turning ideas into useful pr
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a **Full-Stack Web Developer** focused on building modern, scalable, and useful digital products.
-
-I enjoy turning ideas into working systems — from frontend interfaces and backend APIs to databases and deployment.
-
-- 💻 Building modern web applications
-- 🚀 Exploring SaaS and AI-powered products
-- 🧠 Always learning and improving
-- 🎯 Focused on solving real-world problems
-- 🇮🇩 Based in Indonesia
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mysql" />
-</p>
-
-### Tools & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,cloudflare,vscode" />
-</p>
-
----
-
 ## 🚀 What I'm Working On
 
 Currently exploring and building:
@@ -80,18 +44,6 @@ Currently exploring and building:
 <img
   height="170"
   src="https://github-readme-streak-stats.herokuapp.com/?user=ikhwan-fauzi&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
-/>
-
-</div>
-
----
-
-## 💻 Most Used Languages
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhwan-fauzi&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9"
 />
 
 </div>
