@@ -20,18 +20,6 @@ Building modern web applications, exploring AI, and turning ideas into useful pr
 
 ---
 
-## 🚀 What I'm Working On
-
-Currently exploring and building:
-
-- ⚡ Full-Stack Web Applications
-- 🤖 AI-powered Products
-- 🔄 Automation Systems
-- 📊 Data Infrastructure
-- 🌐 SaaS Products
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
